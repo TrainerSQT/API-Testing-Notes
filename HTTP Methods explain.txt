@@ -1,0 +1,14 @@
+GET :- Get Requests should be used only to retrieve data.
+PUT :-  Update the Resources
+POST:- Create a New Request in collection.
+PATCH:-  Update a Partial Resources.
+    When You only need to update one field of the resources.
+DELETE:- Delete a Resource.
+OPTIONS:-  Return available HTTP methods and other options.
+HEAD:- Only Header Information
+
+
+
+Difference Between SOAP API and REST API.
+
+Introduction to Postman
